@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}, 
-	"author": "John Doe"
+	"author": "John Doe",
+  "description": "A project that does something..."
 }
