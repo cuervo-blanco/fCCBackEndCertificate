@@ -17,5 +17,6 @@
 	"node",
 	"express",
 	"freecodecamp"
-  ]
+  ],
+  "license": "MIT"
 }
