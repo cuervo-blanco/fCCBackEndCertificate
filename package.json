@@ -12,5 +12,10 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}, 
 	"author": "John Doe",
-  "description": "A project that does something..."
+  "description": "A project that does something...",
+  "keywords": [
+	"node",
+	"express",
+	"freecodecamp"
+  ]
 }
